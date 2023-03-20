@@ -37,8 +37,8 @@ body {
     --clr-bg-alt: #131514;
     --clr-fg: #eeeef4;
     --clr-fg-alt: #ecf3eb;
-    --clr-primary: #e0102f;
-    --shadow: rgba(248, 241, 242, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    --clr-primary: #10d227;
+    --shadow: rgba(60, 188, 99, 0.885) 0px 10px 36px 0px, rgba(7, 197, 98, 0.06) 0px 0px 0px 1px;
 }
 
 ::-moz-selection {
